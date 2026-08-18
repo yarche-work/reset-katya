@@ -71,12 +71,12 @@
 }
 
 :root {
-  --pink: #ffc4c5;
-  --pink-soft: #ffe0e0;
-  --pink-pale: #fff6f6;
+  --pink: #eda6bf;
+  --pink-soft: #f5d0dd;
+  --pink-pale: #fcf1f5;
   --paper: #fffaf6;
   --white: #ffffff;
-  --lime: #dbf799;
+  --lime: #acc653;
   --green: #63812b;
   --ink: #251c22;
   --muted: #695d64;
@@ -155,7 +155,7 @@ a:focus-visible {
 .btn:hover {
   transform: translate(3px, 3px);
   box-shadow: 3px 3px 0 var(--ink);
-  background: #c7e084;
+  background: #b8cf6d;
 }
 
 .btn--lg { min-height: 62px; padding-inline: 32px; }
